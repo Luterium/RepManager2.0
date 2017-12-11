@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Rep Manager</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="membro">Membro</string>
+    <string name="data_task">Data limite</string>
+    <string name="task_title">Descrição</string>
+    <string name="nova_task">Nova Task</string>
+    <string name="new_member">Novo Membro</string>
+    <string name="add_task">Adicionar Task</string>
+    <string name="add_product">Adicionar Produto</string>
+    <string name="add_despesa">Adicionar Despesa</string>
+    <string name="members">Membros</string>
+    <string name="repInfo">Informações</string>
+    <string name="marketPhoto">Imagem relativa ao produto do mercado</string>
+    <string name="memberPhoto">Imagem relativa ao membro</string>
+    <string name="produto">Produto:</string>
+    <string name="Produto">Produto:</string>
+    <string name="Quantidade">Quantidade:</string>
+    <string name="financeButton">Botão de finanças</string>
+    <string name="repInfoButton">Informação da republica</string>
+    <string name="marketButton">Mercado</string>
+    <string name="tasksButton">Tasks</string>
+    <string name="appButton">App</string>
+    <string name="caronaButton">Carona</string>
+    <string name="finances">Finances</string>
+    <string name="vencimento">Vencimento:</string>
+    <string name="data_de_ingresso">Data de Ingresso</string>
+    <string name="adicionar_membro">Adicionar Membro</string>
+    <string name="data_limite">Data Limite</string>
+    <string name="nome_do_membro">Nome do membro</string>
+    <string name="newProduct">Novo produto</string>
+    <string name="nomeGasto">Nome da Despesa</string>
+    <string name="valorDespesa">Valor da despesa</string>
+    <string name="FAQ">F.A.Q:
+-Qual o sistema operacional suportado pelo app?\n
+Android.\n
+-Onde posso fazer Download deste aplicativo?\n
+Mande uma mensagem para um dos desenvolvedores ou veja o facebook do aplicativo.\n
+-Qual a função de cada item no menu?\n
+O símbolo com cifrão no canto superior esquerdo é para a função de controle de finanças da república, o símbolo de mão
+com o polegar levantado no canto superior direito é para visualizar o link do facebook do aplicativo, o símbolo de uma
+casa no canto mediano esquerdo é para as informações pré cadastradas da república, o símbolo de um carrinho de compras
+no canto mediano direito é para controle de compras no supermercado, o símbolo de uma prancheta no canto inferior esquerdo
+é para o controle de tarefas a serem feitas pelos moradores e o símbolo de uma casa estilizada no canto inferior direito é
+o logo do aplicativo.\n
+-Como é realizado o cadastro pessoal do usuário?\n
+Se o usuário não se cadastrou previamente no aplicativo é dada a opção para inserir nome, data de ingresso na república,
+e uma foto do morador logo após a tela inicial mostrando o logo do aplicativo, este usuário pode ser vizualisado na função
+dados da república. Caso o usuário já possuia um cadastro anterior, o aplicativo inicia diretamente no menu principal após
+logo do aplicativo.\n
+-Como é realizado o cadastro de república e de membros?\n
+-Como a função "Finanças" funciona?\n
+As finanças mostram todos os gastos cruciais para o bom gerenciamento da república, nele é apresentado o nome do gasto,
+o valor e o  seu vencimento. Além disso há categorias demonstradas por imagens ao lado do gasto. O usuário pode adicionar
+ou deletar qualquer gasto pressionando os botões indicados.\n
+-Como a função "Controle de Tarefas" funciona?\n
+As tarefas podem ser adicionadas no botão com símbolo de mais no  canto inferior direito, cada tarefa possui nome e foto
+do membro pré-cadastrados no aplicativo que será encarregado a realizar o trabalho, nome da tarefa, data limite para realizar
+a tarefa e nome da tarefa. O usuário pode  deletar qualquer tarefa pressionando os botão indicado.\n
+-Como a função "Mercado" funciona?\n
+Os produtos do mercado podem ser adicionados no botão com o símbolo de mais na parte inferior da tela, para cadastro dos mesmos\n
+-Qual o público alvo do aplicativo?\n
+O aplicativo é voltado para estudantes de universidades que moram em repúblicas.\n
+-O que o logo do aplicativo representa?\n
+O logo é uma casa de republica vetorizada com os seus eixos interligados em uma formação áurea, representando a perfeição
+da comunidade e harmonia de uma república.\n</string>
+    <string name="Sobre">Este aplicativo foi criado para a matéria de metodologia e desenvolvimento de sistemas, ele possui o intuito de facilitar o gerenciamento dos moradores de repúblicas com soluções para dificuldades rotineiras como fazer a lista de  mercado que sustentará a república durante o mês, realizar uma lista de tarefas a serem feitas com os afazeres e cuidar do panorama financeiro da república\n\nDesenvolvedores:\nBruno Guerra\nDanilo Prado\nNicholas Lopes\nRodrigo Sato</string>
+</resources>

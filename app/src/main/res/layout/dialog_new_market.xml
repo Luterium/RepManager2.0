@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/newProduct"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/newProduct"
+        android:layout_marginTop="10dp"
+        android:textSize="25sp"
+        android:textStyle="bold"/>
+
+
+    <EditText
+        android:id="@+id/nomeDoProduto"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:ems="10"
+        android:hint="Nome do produto"
+        android:inputType="text"
+        android:textSize="15sp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginStart="4dp"
+        />
+
+
+
+    <EditText
+        android:id="@+id/quantidadeDoProduto"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:ems="10"
+        android:hint="Quantidade"
+        android:inputType="number"
+        android:textSize="15sp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginStart="4dp"
+        />
+
+    <Button
+        android:layout_marginTop="15dp"
+        android:id="@+id/addProduct"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/ic_launcher_background"
+        android:text="@string/add_product"
+        android:textColor="@android:color/white" />
+
+
+</LinearLayout>
